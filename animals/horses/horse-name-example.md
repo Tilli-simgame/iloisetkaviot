@@ -2,6 +2,8 @@
 layout: profile
 title: Horse Profile Page
 subtitle: Horse's info and details
+---
+
 name: Hevosen Nimi
 breed: Arabianhevonen
 gender: Tamma
@@ -13,7 +15,6 @@ owner: Tilli
 ownerEmail: tilli@proton.me
 discpline: Kouluratsastus
 registnbr: *ei rekisterissä*
----
 
 My name is Inigo Montoya. I have the following qualities:
 
