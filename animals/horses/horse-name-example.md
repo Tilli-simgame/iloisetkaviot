@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: profile
 title: Horse Name Example
 subtitle: Hevosen profiilisivu
 ---
