@@ -2,7 +2,6 @@
 layout: profile
 title: Horse Profile Page
 subtitle: Horse's info and details
-
 name: Hevosen Nimi
 breed: Arabianhevonen
 gender: Tamma
@@ -10,10 +9,8 @@ dob: 10.04.2020
 height: 150cm
 color: Rautias
 markings: *ei merkkejä*
-
 owner: Tilli
 ownerEmail: tilli@proton.me
-
 discpline: Kouluratsastus
 registnbr: *ei rekisterissä*
 ---
