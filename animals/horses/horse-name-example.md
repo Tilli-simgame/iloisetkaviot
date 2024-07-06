@@ -1,20 +1,38 @@
 ---
 layout: profile
-title: Horse Profile Page
+title: Hevosen Nimi
 subtitle: Horse's info and details
 ---
 
-name: Hevosen Nimi
-breed: Arabianhevonen
-gender: Tamma
-dob: 10.04.2020
-height: 150cm
-color: Rautias
-markings: *ei merkkejä*
-owner: Tilli
-ownerEmail: tilli@proton.me
-discpline: Kouluratsastus
-registnbr: *ei rekisterissä*
+Nimi
+: Hevosen Nimi
+
+Rotu
+: Arabianhevonen
+
+Sukupuoli
+: Tamma
+
+Syntymäpäivä
+: 10.04.2020
+
+Säkä
+: 150cm
+
+Väritys
+: Rautias
+
+Merkit
+: *ei merkkejä*
+
+Omistaja
+: Tilli / tilli@proton.me
+
+Painotus
+: Kouluratsastus
+
+Registerinumero
+: *ei rekisterissä*
 
 My name is Inigo Montoya. I have the following qualities:
 
