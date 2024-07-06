@@ -31,7 +31,7 @@ Omistaja
 Painotus
 : Kouluratsastus
 
-Registerinumero
+Rekisterinumero
 : *ei rekisterissä*
 
 ### Historia
