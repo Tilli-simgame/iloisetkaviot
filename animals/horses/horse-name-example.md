@@ -1,7 +1,7 @@
 ---
 layout: profile
 title: Hevosen Nimi
-subtitle: Horse's info and details
+subtitle: 
 ---
 
 Nimi
