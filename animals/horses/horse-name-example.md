@@ -44,18 +44,18 @@ Tähän luonne...
 
 ### Suku
 
-I: Nimi
-  - II: Nimi
-     - III: Nimi
-     - IIE: Nimi
-  - IE: Nimi
-    - IEI: Nimi
-    - IEE: Nimi
+I: Isän Nimi
+  - II: Iso Isän Nimi
+     - III: Iso Isän Isän Nimi
+     - IIE: Iso Isän Emän Nimi
+  - IE: Iso Emän Nimi
+    - IEI: Iso Emän Isän Nimi
+    - IEE: Iso Emä EmMän Nimi
    
-E: Nimi
-  - EI: Nimi
-    - EII: Nimi
-    - EIE: Nimi 
-  - EE: Nimi
-    - EEI: Nimi
-    - EEE: Nimi 
+E: Emän Nimi
+  - EI: Iso Isän Nimi
+    - EII: Iso Isän Isän Nimi
+    - EIE: Iso Emän Emän Nimi 
+  - EE: Iso Emän Nimi
+    - EEI: Iso Emän Isän Nimi
+    - EEE: Iso Emä Emän Nimi 
