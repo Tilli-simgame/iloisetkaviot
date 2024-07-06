@@ -44,4 +44,18 @@ Tähän luonne...
 
 ### Suku
 
-Tähän suku...
+I: Nimi
+  - II: Nimi
+     - III: Nimi
+     - IIE: Nimi
+  - IE: Nimi
+    - IEI: Nimi
+    - IEE: Nimi
+   
+E: Nimi
+  - EI: Nimi
+    - EII: Nimi
+    - EIE: Nimi 
+  - EE: Nimi
+    - EEI: Nimi
+    - EEE: Nimi 
