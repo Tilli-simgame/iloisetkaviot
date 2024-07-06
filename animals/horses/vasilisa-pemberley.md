@@ -40,7 +40,15 @@ Tähän historia...
 
 ### Luonne
 
-Tähän luonne...
+Vasilisa on kaunis ja energinen tamma, joka rakastaa esteiden ylittämistä. Hän on yhteistyöhaluinen hyppääjä, joka nauttii haasteista ja työskentelee mielellään ihmisen kanssa. Vasilisan kanssa kaikki sujuu sulavasti, kunhan sille annetaan selkeät ohjeet ja luotetaan sen osaamiseen.
+
+Hoitaessa Vasilisa on ystävällinen ja rauhallinen, mutta energisyytensä vuoksi se saattaa olla välillä hieman malttamaton, erityisesti jos tietää pääsevänsä pian hyppäämään. Tamma nauttii harjauksesta ja huomiosta, mutta osaa myös ilmaista, jos jokin asia ei miellytä sitä. Taluttaessa Vasilisa kävelee reippaasti vierellä, ja sen energinen luonne näkyy halussa liikkua eteenpäin.
+
+Ratsastaessa Vasilisa on alusta alkaen innokas ja liikkuu mielellään eteenpäin. Aluksi tamma saattaa olla hieman kova suusta, mutta kun sen saa rentoutumaan ja keskittymään, se alkaa toimia täydellisesti. Vasilisa tarvitsee ratsastajan, joka osaa hyödyntää sen energisyyttä ja suunnata sen oikein, jotta yhteistyö olisi sujuvaa ja tuloksellista.
+
+Kilpailutilanteissa Vasilisa on rauhallinen ja keskittynyt. Lastaukseen ei yleensä kulu paljon aikaa, sillä tamma astuu koppiin reippaasti ja matkustaa mielellään. Kilpailupaikalla Vasilisa käyttäytyy mallikkaasti ja odottaa rauhallisesti vuoroaan. Verryttelyssä tamma on herkkä ja vastaanottavainen, ja radalla se antaa kaikkensa, mikäli ratsastaja on onnistunut verryttelyssä tuomaan esiin tamman parhaat puolet.
+
+Vasilisa on kaikin puolin luotettava ja innokas kilpakumppani, joka palkitsee ratsastajansa upeilla suorituksilla ja energisellä olemuksellaan.
 
 ### Suku
 
