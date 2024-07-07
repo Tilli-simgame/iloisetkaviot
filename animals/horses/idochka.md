@@ -4,7 +4,7 @@ title: Idochka
 subtitle: 
 ---
 <figure>
-  <img src="img/idochka01.png" alt="Rakennekuva" height="300">
+  <img src="../img/idochka01.png" alt="Rakennekuva" height="300">
   <figcaption>© 2024 Iloisten Kavioiden Kartano. Kuva generoitu AI-avusteisesti.</figcaption>
 </figure>
 
