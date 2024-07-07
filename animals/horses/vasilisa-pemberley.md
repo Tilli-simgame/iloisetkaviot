@@ -4,6 +4,11 @@ title: Vasilisa Pemberley
 subtitle: 
 ---
 
+<figure>
+  <img src="../img/vasilisa-pemberley01.jpg" alt="Rakennekuva" height="300">
+  <figcaption>© 2024 Iloisten Kavioiden Kartano. Kuva generoitu AI-avusteisesti.</figcaption>
+</figure>
+
 Nimi
 : Vasilisa Pemberley
 
